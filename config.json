@@ -1,0 +1,12 @@
+{
+  "instance_id": "aao-core-vm",
+  "ip_address": "34.9.201.233",
+  "alerts": {
+    "email": "j.damus88@gmail.com",
+    "sms": "7026222071@tmomail.net"
+  },
+  "status_url": "/home/damusja357/aao/status.json",
+  "dashboard_enabled": true,
+  "drive_sync_enabled": true,
+  "log_push_enabled": true
+}
