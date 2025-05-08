@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NoSuchBucket</Code><Message>The specified bucket does not exist</Message><BucketName>aao-deploy</BucketName><RequestId>XC112M62PHDHYBPH</RequestId><HostId>sCksEtRFzk9bMNrPf6JmAPeHrQ2lLEV55Q12AQXsxi10wjxlQqimpIh0ibgMGjDldNd2FZAHj0o=</HostId></Error>
