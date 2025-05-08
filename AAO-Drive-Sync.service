@@ -1,0 +1,12 @@
+[Unit]
+Description=AAO Google Drive Sync
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/damusja357/aao-core-vm/sync_push.py
+WorkingDirectory=/home/damusja357/aao-core-vm
+Restart=always
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target
