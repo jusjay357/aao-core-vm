@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Cycles through AAO signals and updates signal.json every second
-# Loop: buy → sell → close → standby → repeat
-
 TARGET_PATH=~/aao-core-vm/public/status/signal.json
 SIGNALS=("buy" "sell" "close" "standby")
 
